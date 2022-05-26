@@ -2,6 +2,6 @@
 
 <p align="center">
   <h3>
-  Link : css-project-2.vercel.app
+  Link : https://css-project-2.vercel.app
   </h3>
 </p>
